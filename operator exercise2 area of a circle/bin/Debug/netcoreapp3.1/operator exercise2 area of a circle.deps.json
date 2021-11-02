@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "operator exercise2 area of a circle/1.0.0": {
+        "runtime": {
+          "operator exercise2 area of a circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operator exercise2 area of a circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

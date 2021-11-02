@@ -1,0 +1,14 @@
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.exe
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.deps.json
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.runtimeconfig.json
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.runtimeconfig.dev.json
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.dll
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\bin\Debug\netcoreapp3.1\operator exercise2 area of a circle.pdb
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.csproj.AssemblyReference.cache
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.AssemblyInfoInputs.cache
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.AssemblyInfo.cs
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.csproj.CoreCompileInputs.cache
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.dll
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.pdb
+C:\Users\arome\source\repos\operator exercise2 area of a circle\operator exercise2 area of a circle\obj\Debug\netcoreapp3.1\operator exercise2 area of a circle.genruntimeconfig.cache
